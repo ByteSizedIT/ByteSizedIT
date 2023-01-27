@@ -1,7 +1,5 @@
 <div align="center" style="margin-bottom: 10px">
-  <a href="https://www.linkedin.com/in/bytesizedit/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Neville+Keemer; Full+Stack+Web+Developer" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Neville+Keemer;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
