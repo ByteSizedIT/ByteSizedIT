@@ -1,8 +1,9 @@
 <p align="center" style="margin-bottom: 10px;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Neville+Keemer;Full+Stack+Web+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=0.000001&pause=1000&height=40&center=true&repeat=false&width=435&lines=Neville+Keemer" alt="Typing SVG" /></a>
 </p>
-
-<div ></div>
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&height=30&lines=Full+Stack+Web+Developer;using+the+following+languages%2C+libraries+and+frameworks" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
