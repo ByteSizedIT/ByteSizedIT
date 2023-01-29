@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=0.000001&pause=1000&height=40&center=true&repeat=false&width=435&lines=Neville+Keemer" alt="Typing SVG" /></a>
 </p>
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&height=30&lines=Full+Stack+Web+Developer;using+the+following+languages%2C+libraries+and+frameworks" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&height=30&lines=Full+Stack+Web+Developer;using+the+following+languages%2C+libraries%2C+frameworks+%26+tools" alt="Typing SVG" /></a>
 </p>
 
 
