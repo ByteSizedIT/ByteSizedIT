@@ -18,7 +18,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="psql" alt="PSQL" width="50" height="50"/>&nbsp;
   <img src="./icons/sqlite.svg" title="Sqlite" alt="SQLite" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/> -->
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="45" height="45"/>&nbsp;
+   <img src="./icons/cypress.svg" title="Cypress" alt="Cypress" width="45" height="45"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </p>
  
 <p align="center">     
