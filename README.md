@@ -15,13 +15,14 @@
 <p align="center">  
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
    <img src="./icons/express.svg" title="Express" alt="Express"50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-   <img src="./icons/nextjs.svg" title="Next" alt="Next" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
+   <img src="./icons/nextjs.svg" title="Next" alt="NextJS" width="50" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="psql" alt="PSQL" width="50" height="50"/>&nbsp;
    <img src="./icons/sqlite.svg" title="Sqlite" alt="SQLite" width="50" height="50"/>&nbsp;
+   <img src="./icons/supabase-logo-icon.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="45" height="45"/>&nbsp;
-   <img src="./icons/cypress.svg" title="Cypress" alt="Cypress" width="45" height="45"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+   <img src="./icons/cypress.svg" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 </p>
                                                                                                                                        
